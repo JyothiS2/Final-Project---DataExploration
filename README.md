@@ -31,3 +31,9 @@ data.
 ->These functions are developed dynamically such that any tabular dataset or
 data frame can be passed to get the output.
 
+![Final project Image6](https://user-images.githubusercontent.com/97499801/166193685-ddbd8fdf-94ec-44d6-88c9-feaaf76c2f83.png)
+![Final project Image5](https://user-images.githubusercontent.com/97499801/166193687-aa21a882-ab02-42b7-b330-50d4362b8718.png)
+![Final project Image4](https://user-images.githubusercontent.com/97499801/166193688-64a822ea-7724-4e50-b223-b6d476530ba1.png)
+![Final project Image3](https://user-images.githubusercontent.com/97499801/166193689-723c568a-e589-452f-a58e-d9857abfa743.png)
+![Final project Image2](https://user-images.githubusercontent.com/97499801/166193690-b9f7194f-acca-425c-8928-28f7d4ec1807.png)
+![Final project Image1](https://user-images.githubusercontent.com/97499801/166193692-ac0c2bc9-6b0a-49b3-9079-fbf069acf395.png)
